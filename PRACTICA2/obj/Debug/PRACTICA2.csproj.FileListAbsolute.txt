@@ -1,0 +1,10 @@
+C:\Users\AGAE\Documents\Visual Studio 2019\PROYECTOS\PRACTICA2\PRACTICA2\bin\Debug\PRACTICA2.exe.config
+C:\Users\AGAE\Documents\Visual Studio 2019\PROYECTOS\PRACTICA2\PRACTICA2\bin\Debug\PRACTICA2.exe
+C:\Users\AGAE\Documents\Visual Studio 2019\PROYECTOS\PRACTICA2\PRACTICA2\bin\Debug\PRACTICA2.pdb
+C:\Users\AGAE\Documents\Visual Studio 2019\PROYECTOS\PRACTICA2\PRACTICA2\obj\Debug\PRACTICA2.csprojAssemblyReference.cache
+C:\Users\AGAE\Documents\Visual Studio 2019\PROYECTOS\PRACTICA2\PRACTICA2\obj\Debug\PRACTICA2.Form1.resources
+C:\Users\AGAE\Documents\Visual Studio 2019\PROYECTOS\PRACTICA2\PRACTICA2\obj\Debug\PRACTICA2.Properties.Resources.resources
+C:\Users\AGAE\Documents\Visual Studio 2019\PROYECTOS\PRACTICA2\PRACTICA2\obj\Debug\PRACTICA2.csproj.GenerateResource.cache
+C:\Users\AGAE\Documents\Visual Studio 2019\PROYECTOS\PRACTICA2\PRACTICA2\obj\Debug\PRACTICA2.csproj.CoreCompileInputs.cache
+C:\Users\AGAE\Documents\Visual Studio 2019\PROYECTOS\PRACTICA2\PRACTICA2\obj\Debug\PRACTICA2.exe
+C:\Users\AGAE\Documents\Visual Studio 2019\PROYECTOS\PRACTICA2\PRACTICA2\obj\Debug\PRACTICA2.pdb
